@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oresteapa/CLionProjects/QuizGameClient/UtilitySocketClient.c
+string.h
+-
+UtilitySocketClient.h
+/Users/oresteapa/CLionProjects/QuizGameClient/UtilitySocketClient.h
+
+/Users/oresteapa/CLionProjects/QuizGameClient/UtilitySocketClient.h
+netinet/in.h
+-
+arpa/inet.h
+-
+zconf.h
+-
+stdlib.h
+-
+stdio.h
+-
+
